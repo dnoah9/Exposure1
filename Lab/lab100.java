@@ -16,7 +16,6 @@ public class lab100 {
         System.out.println(" Minutes: \t\t\t   "+ minutes);
         System.out.println(" Seconds : \t\t\t   "+ seconds);
         System.out.println(" Milliseconds: \t\t   "+ milliseconds);
-        System.out.println("10000 seconds equals:");
         System.out.println( hours + " hours, " +minutes + " minutes, " + seconds + " seconds, " + milliseconds + " milliseconds" );
 
 
